@@ -16,7 +16,7 @@
 
 1. 把本仓库克隆（或下载）到 Claude Code 的 skills 目录：
    ```bash
-   git clone https://github.com/<你的用户名>/claude-done-alert ~/.claude/skills/done-alert
+   git clone https://github.com/zora0104/claude-done-alert ~/.claude/skills/done-alert
    ```
 2. 重启 Claude Code（让它扫描到新 skill）。
 3. 在对话里输入 `/done-alert`，或直接说「装提示音」。
