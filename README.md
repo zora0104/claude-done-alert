@@ -17,7 +17,7 @@
 当你切到别的网页忙别的事时，Claude 一跑完任务，就会在屏幕正中弹出你设的图（按任意键 / 点击任意处关闭）：
 
 <p align="center">
-  <img src="examples/demo.png" width="640" alt="弹图效果演示">
+  <img src="examples/demo.png?v=2" width="640" alt="弹图效果演示">
 </p>
 
 > 图片可以换成任意自己喜欢的（透明底 PNG 效果最好），上图用的是这张：
