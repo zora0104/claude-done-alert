@@ -14,11 +14,15 @@
 
 ### 示例
 
-下面是作者自己用的一张提示图（透明底 PNG），任务一结束就会在每块屏幕居中弹出来 —— 你可以换成任意自己喜欢的图：
+当你切到别的网页忙别的事时，Claude 一跑完任务，就会在屏幕正中弹出你设的图（按任意键 / 点击任意处关闭）：
 
 <p align="center">
-  <img src="examples/alert-sample.png" width="320" alt="示例提示图">
+  <img src="examples/demo.png" width="640" alt="弹图效果演示">
 </p>
+
+> 图片可以换成任意自己喜欢的（透明底 PNG 效果最好），上图用的是这张：
+>
+> <p align="center"><img src="examples/alert-sample.png" width="200" alt="示例提示图"></p>
 
 ## 安装
 
